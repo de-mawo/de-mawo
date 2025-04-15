@@ -79,7 +79,7 @@ An entrepreneurial ecosystem supporting youth entrepreneurs.
 ### 🎓 Education & Certifications
 - Software Engineering (2023) - Holberton School/ALX
 - Network Engineering (2019)
-- BTECH Project Management
+- Bachelor in Project Management
 
 ---
 
@@ -93,7 +93,7 @@ An entrepreneurial ecosystem supporting youth entrepreneurs.
 ---
 
 ### 📫 How to reach me:
-- Twitter: [@de_mawo](https://twitter.com/de_mawo)
+- X: [@de_mawo](https://twitter.com/de_mawo)
 - LinkedIn: [Prince Mawonde](https://www.linkedin.com/in/prince-mawonde-98884a96/)
 - YouTube: [@demawocodes](https://www.youtube.com/@demawocodes)
 
