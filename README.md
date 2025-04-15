@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prince Mawonde
 
-## Software Engineer & Entrepreneur | Cape Town, South Africa
+## Software Engineer 
 
 I'm a skilled software engineer with a background in network engineering, passionate about building scalable web applications and sharing knowledge through code.
 

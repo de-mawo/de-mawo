@@ -95,7 +95,7 @@ export default function Hero() {
           >
             <div className="relative w-[280px] h-[280px] sm:w-[400px] sm:h-[400px] rounded-full overflow-hidden border-4 border-primary/20">
               <img
-                src="/me.jpg"
+                src="/me.png"
                 alt="Prince Mawonde"
                 className="object-cover w-full h-full"
               />
