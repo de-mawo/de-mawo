@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 import { useInView } from "react-intersection-observer"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Github, Linkedin, MapPin, Mail, Twitter, Youtube } from "lucide-react"
+import { Github, Linkedin, MapPin, Mail,  Youtube } from "lucide-react"
 import { BsTwitterX } from "react-icons/bs";
 import Link from "next/link"
 
@@ -26,7 +26,7 @@ export default function Contact() {
           <div className="space-y-2">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Get In Touch</h2>
             <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              Have a project in mind or want to collaborate? Let's connect!
+              Have a project in mind or want to collaborate? Let&apos;s connect!
             </p>
           </div>
         </motion.div>
